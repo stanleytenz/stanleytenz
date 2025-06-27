@@ -1,6 +1,6 @@
 # Hi, I'm Stanley 👋👨🏻‍💻⭐
 
-![Banner](banner (1).png)  
+![Banner](bannerr.png)  
 *A banner that says Stanley Armando Austen – Data Scientist, Data Analyst, and Business Analyst" alongside a cartoon illustration of Stanley*
 
 ---
