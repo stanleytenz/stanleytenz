@@ -1,6 +1,6 @@
 # Hi, I'm Stanley 👋👨🏻‍💻⭐
 
-![Banner](bannerstanley.png)  
+![Banner](stanley.png)  
 
 ---
 
