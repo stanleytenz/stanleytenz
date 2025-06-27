@@ -24,9 +24,9 @@ I am also looking forward to applying these skills in a dynamic, data-driven env
 
 ## 🌎 Find Me Around the Web
 
-- 📸 **Get to know about me on**: [monica.dev](https://monica.dev) and [Instagram](https://www.instagram.com/stanleytenz)
-- 💼 **My Portofolio**: [https://stanleytenz.github.io/](https://stanleytenz.github.io/)
-- 🔗 **Sharing on LinkedIn**: [https://www.linkedin.com/in/stanley-armando-45a039224/](https://www.linkedin.com/in/stanley-armando-45a039224/)
+- 📸 **Get to know about me on**: [My Instagram](https://www.instagram.com/stanleytenz)
+- 💼 **My Portofolio**: [My Portofolio](https://stanleytenz.github.io/)
+- 🔗 **Sharing on LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/stanley-armando-45a039224/)
 
 ---
 
