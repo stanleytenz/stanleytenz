@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Stanley 👋🏾 👩🏾‍💻
 
-<!--
-**stanleytenz/stanleytenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](stanleybanner.png)  
+*A banner that says Stanley Armando Austen – Data Scientist, Data Analyst, and Business Analyst" alongside a cartoon illustration of Stanley*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Data Scientist** passionate about:
+
+- Unlocking insights from data to drive meaningful decisions 
+- Making data and machine learning accessible to everyone 
+- Building tools and communities that empower analytical thinking 
+
+Some technologies I love working with:
+- **Python** (Pandas, NumPy, Scikit-learn, etc.)
+- **SQL** for structured data exploration
+- **Tableau & Kibana** for impactful visual storytelling
+
+In **June 2025**, I completed my data science bootcamp with Hacktiv8, where I gained hands-on experience in data analysis, machine learning, and building end-to-end data solutions. The program sharpened my skills in Python, SQL, Tableau, and predictive modeling, while also strengthening my ability to solve real-world business problems with data.
+
+I am also looking forward to applying these skills in a dynamic, data-driven environment where I can contribute to impactful projects, continue learning from experienced professionals, and grow into a well-rounded data professional.
+
+---
+
+## 🌎 Find Me Around the Web
+
+- 🖥️ **Get to know about me on**: [monica.dev](https://monica.dev) and [Instagram](https://www.instagram.com/stanleytenz)
+- 🏓 **My Portofolio**: [https://stanleytenz.github.io/](https://stanleytenz.github.io/)
+- 💼 **Sharing on LinkedIn**: [https://www.linkedin.com/in/stanley-armando-45a039224/](https://www.linkedin.com/in/stanley-armando-45a039224/)
+
+---
+
+Let's build something amazing together! 🚀
