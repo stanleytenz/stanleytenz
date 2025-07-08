@@ -25,7 +25,7 @@ I am also looking forward to applying these skills in a dynamic, data-driven env
 
 - 📸 **Get to know about me on**: [My Instagram](https://www.instagram.com/stanleytenz)
 - 💼 **My Portofolio**: [My Portofolio](https://stanleytenz.github.io/)
-- 🔗 **Sharing on LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/stanley-armando-45a039224/)
+- 🔗 **Sharing on LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/stanley-armando-austen/)
 
 ---
 
